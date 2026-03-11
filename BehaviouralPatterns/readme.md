@@ -50,6 +50,15 @@ Behavioural patterns are concerned with the assignment of responsibilities betwe
 - **Purpose**: Represent an operation to be performed on elements of an object structure
 - **Use Cases**: Compiler design, tree traversal, reporting systems
 
+## 📂 Exercises
+1. [**Ex 1: Decorator Pattern**](./Ex1/README.md) - Encrypted Writer/Reader
+2. [**Ex 2: Strategy Pattern**](./Ex2/README.md) - Flexible Bank Transfers
+3. [**Ex 3: Combined Patterns**](./Ex3/README.md) - Composite (Tasks), Observer (Notifications), Adapter (Mail/SMS)
+4. [**Ex 4: Bridge Pattern**](./Ex4/README.md) - Device-independent Printing
+5. [**Ex 5: Biological Metaphors**](./Ex5/README.md) - Flyweight (DNA), Prototype (Cells), Composite (Lungs)
+6. [**Ex 6: Flyweight Pattern**](./Ex6/README.md) - Vehicle Options Optimization
+7. [**Ex 7: Proxy Pattern**](./Ex7/README.md) - Caching Dictionary
+
 ## 📂 Contents
 
 Each pattern includes:
